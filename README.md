@@ -43,4 +43,4 @@ Original, deployed CV projects are in progress and will be pinned here as they s
 
 **LinkedIn** · **Website** · **rajileshpanoli123@gmail.com**
 
-Open to Computer Vision, Forward-Deployed, and Solutions Engineering roles — India or remote.
+Open to Computer Vision, Forward-Deployed, and Solutions Engineering roles worldwide, onsite or remote.
