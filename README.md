@@ -41,6 +41,6 @@ Original, deployed CV projects are in progress and will be pinned here as they s
 
 ## 📫 Reach me
 
-**LinkedIn** · **Website** · **rajileshpanoli123@gmail.com**
+**LinkedIn** · **Website** · **rajilesh@soance.com**
 
 Open to Computer Vision, Forward-Deployed, and Solutions Engineering roles worldwide, onsite or remote.
