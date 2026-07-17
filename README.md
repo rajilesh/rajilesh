@@ -1,196 +1,46 @@
-# Hi, I'm Rajilesh Panoli 👋
+# Hi, I'm Rajilesh Panoli
 
-### Senior Software Engineer (16+ Years) | Computer Vision Engineer | Founder @ Soance Innovations
+**Senior software engineer (16 yrs) — now building in Computer Vision.**
 
-I've spent over 16 years building software that people actually use, delivering web and mobile applications ranging from startup products to enterprise platforms.
+I've spent my career shipping software that people actually use: web and mobile products across PHP, Node.js, JavaScript, React, and Flutter, from small-business tools to enterprise platforms. I've led engineering teams and I run Soance, an independent consultancy where I take products from first conversation to production.
 
-My background spans **PHP, JavaScript, Node.js, React, Flutter, WordPress, and cloud technologies**, where I've led engineering teams and delivered products from idea to production through my consultancy, **Soance Innovations**.
+Today my focus is Vision AI. My path in started with OpenCV University, and it turned into the work I want to build the rest of my career around.
 
-Today, my focus is **Computer Vision and Vision AI**.
+What I bring that's harder to find: plenty of people can train a model in a notebook. Fewer can also build the application around it, deploy it, and keep it running. That bridge — from a working model to a product in someone's hands — is where I'm aiming.
 
-My journey into AI began through **OpenCV University**, and it quickly became the field I want to build the rest of my career around.
+## 🔭 What I'm working on
 
-What I bring that's harder to find is the ability to bridge **research and production**. Many engineers can train a model. Fewer can build the complete application around it, deploy it, scale it, and keep it running in the real world.
+- Building depth in OpenCV and PyTorch through hands-on implementation, not just tutorials
+- Moving from coursework into original projects — real-time detection running on device
+- Learning to read and reproduce current CV research, one paper at a time
 
-That's where I thrive.
+## 📌 Featured work
 
----
+| Project | What it is |
+|---------|------------|
+| **Hands-On-Learning-in-Computer-Vision** | Image processing and object detection in Python/Jupyter — my working notebook for OpenCV & PyTorch fundamentals. Learning project, built alongside OpenCV University coursework. |
+| **learnopencv** | Implementations of core OpenCV techniques: filtering, feature detection, image transformations. Practice repo — following course material. |
 
-## 🚀 About Me
+Original, deployed CV projects are in progress and will be pinned here as they ship.
 
-- 👨‍💻 16+ years building production software
-- 👁️ Transitioning full-time into Computer Vision & AI
-- 🏢 Founder of **Soance Innovations**
-- 📱 Experienced in Web, Mobile, Cloud, and AI products
-- 🌎 Open to **Computer Vision**, **Forward-Deployed**, and **Solutions Engineering** roles (India & Remote)
+## 🛠️ Working with
 
----
+**Computer Vision & ML** — OpenCV · PyTorch · NumPy · Deep Learning · CNNs · Object Detection · Image Processing
 
-# 🔭 Currently Working On
+**Languages** — Python · JavaScript · PHP · Dart · SQL
 
-- Building practical expertise in **OpenCV** and **PyTorch**
-- Developing real-time Computer Vision applications
-- Edge AI and on-device inference
-- Reproducing modern Computer Vision research papers
-- Contributing production-ready Vision AI projects to GitHub
+**Web & Mobile** — React · Next.js · Node.js · Flutter · React Native · WordPress
 
----
+**Cloud & DevOps** — AWS · GCP · Docker · CI/CD · Nginx
 
-# 📌 Featured Projects
+## 🎓 Certifications
 
-## 🧠 Hands-On Learning in Computer Vision
+- Deep Learning with PyTorch 2.x — OpenCV University
+- Mastering OpenCV with Python — OpenCV University
+- Fundamentals of Computer Vision & Image Processing in Python — OpenCV University
 
-Learning repository covering:
+## 📫 Reach me
 
-- OpenCV fundamentals
-- Image Processing
-- Object Detection
-- PyTorch basics
-- Jupyter implementations
+**LinkedIn** · **Website** · **rajileshpanoli123@gmail.com**
 
-> Built alongside OpenCV University coursework.
-
----
-
-## 📷 Learn OpenCV
-
-Implementations of core OpenCV concepts including:
-
-- Image filtering
-- Feature detection
-- Contours
-- Geometric transformations
-- Image enhancement
-
-Practice repository following modern Computer Vision techniques.
-
----
-
-## 🚧 Upcoming Projects
-
-Original Vision AI projects currently under development.
-
-Some planned releases include:
-
-- AI Patient Fall Detection
-- CCTV-based Intelligent Monitoring
-- Pose Estimation
-- Object Tracking
-- Real-time Detection Systems
-- Edge AI Deployments
-- Medical Computer Vision
-
----
-
-# 🛠 Tech Stack
-
-## 👁️ Computer Vision & AI
-
-- OpenCV
-- PyTorch
-- NumPy
-- Deep Learning
-- CNNs
-- Object Detection
-- Image Segmentation
-- Image Processing
-- YOLO
-- Python
-
----
-
-## 💻 Web Development
-
-- React
-- Next.js
-- Node.js
-- Express
-- PHP
-- Laravel
-- WordPress
-- REST APIs
-- GraphQL
-
----
-
-## 📱 Mobile Development
-
-- Flutter
-- React Native
-- Android
-- iOS
-
----
-
-## ☁️ Cloud & DevOps
-
-- AWS
-- Google Cloud
-- Docker
-- CI/CD
-- Nginx
-- Linux
-
----
-
-## 🗄 Databases
-
-- MySQL
-- PostgreSQL
-- MongoDB
-- SQLite
-
----
-
-# 🎓 Certifications
-
-- ✅ Deep Learning with PyTorch 2.x — OpenCV University
-- ✅ Mastering OpenCV with Python — OpenCV University
-- ✅ Fundamentals of Computer Vision & Image Processing in Python — OpenCV University
-
----
-
-# 🌱 Currently Learning
-
-- Modern Vision Transformers
-- Diffusion Models
-- Segmentation Models
-- 3D Vision
-- Multi-Object Tracking
-- Edge AI Optimization
-- CUDA & GPU Acceleration
-
----
-
-# 📫 Connect With Me
-
-📧 **Email**
-
-rajileshpanoli123@gmail.com
-
-🌐 **Website**
-
-https://soance.com
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/rajileshpanoli
-
----
-
-# 💡 What I'm Looking For
-
-I'm looking to collaborate on:
-
-- Computer Vision
-- Vision AI
-- OpenCV
-- PyTorch
-- Edge AI
-- Robotics
-- Medical AI
-- AI Infrastructure
-
----
-
-> *Building software is my profession. Building intelligent software is my future.*
+Open to Computer Vision, Forward-Deployed, and Solutions Engineering roles — India or remote.
