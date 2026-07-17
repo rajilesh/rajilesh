@@ -10,7 +10,7 @@ What I bring that's harder to find: plenty of people can train a model in a note
 
 ## 🔭 What I'm working on
 
-- Building depth in OpenCV and PyTorch through hands-on implementation, not just tutorials
+- Building depth in OpenCV and PyTorch through hands-on implementation
 - Moving from coursework into original projects — real-time detection running on device
 - Learning to read and reproduce current CV research, one paper at a time
 
